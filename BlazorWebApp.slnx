@@ -1,0 +1,5 @@
+<solution>
+  <projects>
+    <project path="FrontEndDev/BlazorWebApp/BlazorWebApp.csproj" />
+    <project path="FrontEndDev/BlazorWebApp/BlazorWebApp.Tests/BlazorWebApp.Tests.csproj" />
+  </projects>
